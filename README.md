@@ -12,7 +12,7 @@ Built with:
 
 ## 🚀 Live Demo (Hosted on Render)
 
-👉 [Click Here to View the Live App]([https://your-render-url.onrender.com](https://crop-yield-prediction-dashboard.onrender.com/))  
+👉 [Click Here to View the Live App](https://crop-yield-prediction-dashboard.onrender.com/)  
 
 ---
 
