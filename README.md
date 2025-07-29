@@ -66,7 +66,7 @@ Then open your browser and go to http://127.0.0.1:8050
 ---
 
 ## 📜 License
-This project is open-source or educational & research use only and under the MIT License.
+This project is licensed under the MIT License.
 
 ---
 
