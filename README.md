@@ -56,7 +56,7 @@ Built with:
 Make sure you have Python 3.10+ installed.
 
 ```bash
-cd crop-yield-dashboard
+cd project/folder/path
 pip install -r requirements.txt
 python app.py
 ```
