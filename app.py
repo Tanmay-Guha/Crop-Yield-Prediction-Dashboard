@@ -445,7 +445,7 @@ app.layout = dbc.Container([
         dbc.Col([
             html.Div([
                 html.P("© 2025 All Rights Reserved", className="text-center"),
-                html.P("Made with ❤️ by Code Valley", className="text-center")
+                html.P("Made with ❤️ by Tanmay Guha.", className="text-center")
             ], className="mt-4 p-3 bg-light text-dark")
         ], width=12)
     ])
